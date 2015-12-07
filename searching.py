@@ -1,7 +1,7 @@
 #--------------------------------------------------------#
 # List, HashTable: Searching
-# Author: Kelly Chan
-# Date: Apr 22 2014
+# Author: MINZHEN YANG
+# Date: Dec 6th, 2015
 #--------------------------------------------------------#
 
 def sequentialSearch(alist, item):
